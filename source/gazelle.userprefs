@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Loop.cs">
+    <Files>
+      <File FileName="Assets\Slider_.cs" Line="19" Column="50" />
+      <File FileName="Assets\Parameters.cs" Line="68" Column="19" />
+      <File FileName="Assets\Play.cs" Line="50" Column="114" />
+      <File FileName="Assets\Loop.cs" Line="30" Column="30" />
+      <File FileName="Assets\GazelleManager.cs" Line="170" Column="8" />
+      <File FileName="Assets\MiscAssets\chroma.shader" Line="59" Column="3" />
+      <File FileName="Assets\GazelleFill\MultiTextureChroma.cs" Line="38" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
